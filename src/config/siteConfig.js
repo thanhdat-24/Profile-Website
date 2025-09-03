@@ -75,14 +75,14 @@ const siteConfig = {
   },
   projects: [
     {
-      name: "Website Quản lý tài sản",
+      name: "Website Quản lý tài sản DNC",
       description: "Xây dựng hệ thống quản lý tài sản nội bộ cho doanh nghiệp.",
-      link: "https://github.com/thanhdat-24/asset-management"
+      link: "https://github.com/thanhdat-24/QLTS_DNC_WEBSITE.git"
     },
     {
       name: "Ứng dụng nhận diện hoa quả",
       description: "Tích hợp AI để phân loại hình ảnh trái cây thực tế.",
-      link: "https://github.com/thanhdat-24/fruit-classifier"
+      link: "https://github.com/thanhdat-24/MODEL_MobileNetV2.git"
     }
   ]
 };

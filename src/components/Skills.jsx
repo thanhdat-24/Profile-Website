@@ -138,7 +138,7 @@ const Skills = () => {
         </div>
 
         {/* Certificates Section */}
-        <div className="mt-16 pt-8 border-t border-gray-200 dark:border-gray-700">
+        {/* <div className="mt-16 pt-8 border-t border-gray-200 dark:border-gray-700">
           <h3 className="text-2xl font-bold text-center bg-gradient-to-r from-[#2193b0] to-[#6dd5ed] bg-clip-text text-transparent mb-8">
             Chứng chỉ & Giải thưởng
           </h3>
@@ -191,7 +191,7 @@ const Skills = () => {
               </div>
             </motion.div>
           </div>
-        </div>
+        </div> */}
       </motion.div>
     </div>
   );
